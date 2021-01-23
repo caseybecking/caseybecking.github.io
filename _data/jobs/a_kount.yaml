@@ -1,0 +1,34 @@
+dailyTechnologies:
+  - nessus
+  - prowler
+  - docker
+  - linux
+  - aws
+  - eks
+responsibilities: []
+positions:
+  - Senior Security Engineer at Kount
+descriptions:
+  - Serve as part of the security incident response team
+  - Perform penetration testing of the products and systems
+  - >-
+    Conduct security reviews of cloud-based infrastructure, identify security
+    issues, and provide remediation recommendations.
+  - >-
+    Evaluate new systems, technologies, and frameworks; work with development
+    and operations teams to ensure these are deployed and utilized in a secure
+    manner
+  - >-
+    Help ensure systems and processes are in place to provide defense in depth
+    (e.g., code scanning, WAF, IDS/IPS, etc.)
+  - Static and Dynamic Application Pentesting
+hire:
+  - 10/10/2020
+term:
+  - Current
+url:
+  - 'https://www.kount.com'
+name:
+  - Kount
+location:
+  - Remote
