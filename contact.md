@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 redirect_from:
-  - /about
+  - /about/
 ---
 * E-mail: [me@caseybecking.com](mailto:me@caseybecking.com)
 * Twitter:[@caseybecking](http://www.twitter.com/caseybecking)
