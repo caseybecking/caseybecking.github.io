@@ -10,16 +10,11 @@ responsibilities: []
 positions:
   - Team Lead - Senior Security Engineer at Equifax
 descriptions:
-  - Serve as part of the security incident response team
-  - Perform penetration testing of the products and systems
-  - Conduct security reviews of cloud-based infrastructure, identify security
-    issues, and provide remediation recommendations.
-  - Evaluate new systems, technologies, and frameworks; work with development
-    and operations teams to ensure these are deployed and utilized in a secure
-    manner
-  - Help ensure systems and processes are in place to provide defense in depth
-    (e.g., code scanning, WAF, IDS/IPS, etc.)
-  - Static and Dynamic Application Pentesting
+  - Communicate across org to drive security tools adoption (4 out of 4 tools)
+  - Installation and configuration of Cloud Security tooling
+  - Identify vulnerabilities and work with Engineering to resolution
+  - Work on risk, compliance and information security policies
+  - Key stake holder in the company department audits (PCI-DSS, SOC2)
 hire:
   - 02/01/2020
 term:
