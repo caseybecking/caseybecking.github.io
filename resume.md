@@ -7,7 +7,7 @@ permalink: /resume/
 <div>
 <h1>History</h1>
 <hr>
-{% assign jobs = site.data.jobs | sort %}
+{% assign jobs = site.data.jobs | sort | reverse %}
 {% for job_hash in jobs %}
 {% assign job = job_hash[1]%}
 <h3><a href="{{job.url}}">{{job.name}}</a></h3>

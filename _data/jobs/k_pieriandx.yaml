@@ -1,14 +1,11 @@
 dailyTechnologies:
-  - nessus
-  - prowler
-  - docker
-  - linux
+  - crowdstrike
   - aws
-  - qualys
-  - c3m
+  - bitbucket
+  - jenkins
 responsibilities: []
 positions:
-  - Team Lead - Senior Security Engineer at Equifax
+  - Senior Security Engineer at PierianDX
 descriptions:
   - Communicate across org to drive security tools adoption (4 out of 4 tools)
   - Installation and configuration of Cloud Security tooling
@@ -16,12 +13,12 @@ descriptions:
   - Work on risk, compliance and information security policies
   - Key stake holder in the company department audits (PCI-DSS, SOC2)
 hire:
-  - 02/01/2021
+  - 11/08/2021
 term:
   - Current
 url:
-  - 'https://www.equifax.com'
+  - 'https://www.PierianDX.com'
 name:
-  - Equifax
+  - PierianDX
 location:
   - Remote
