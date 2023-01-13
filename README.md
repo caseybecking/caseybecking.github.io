@@ -12,9 +12,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Casey Becking Blog][product-screenshot]](https://www.caseybecking.com)
+[![Casey Becking Site][product-screenshot]](https://www.caseybecking.com)
 
-Here you can describe the project, why you made it and **for who you made it**, but mostly don't forget to add a screenshot like the image above AND a link to the demo like this : https://NicolasBrondin.github.io/basic-readme-template/
+This is my basic site. It contains my resume and a very basic blog. I use it to keep track of my thoughts and share them with the world.
 
 ### Built With
 
@@ -59,7 +59,7 @@ Make changes to the blog as needed and `git push`
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@caseybecking](https://twitter.com/caseybecking) - caseybecking
+Casey Becking - [@caseybecking](https://twitter.com/caseybecking) - caseybecking
 
 Project Link: [https://github.com/caseybecking/caseybecking.github.io](https://github.com/caseybecking/caseybecking.github.io)
 
@@ -67,16 +67,16 @@ Project Link: [https://github.com/caseybecking/caseybecking.github.io](https://g
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/NicolasBrondin/basic-readme-template.svg?style=flat-square
-[contributors-url]: https://github.com/NicolasBrondin/basic-readme-template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/NicolasBrondin/basic-readme-template.svg?style=flat-square
-[forks-url]: https://github.com/NicolasBrondin/basic-readme-template/network/members
-[stars-shield]: https://img.shields.io/github/stars/NicolasBrondin/basic-readme-template.svg?style=flat-square
-[stars-url]: https://github.com/NicolasBrondin/basic-readme-template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/NicolasBrondin/basic-readme-template.svg?style=flat-square
-[issues-url]: https://github.com/NicolasBrondin/basic-readme-template/issues
-[license-shield]: https://img.shields.io/github/license/NicolasBrondin/basic-readme-template.svg?style=flat-square
-[license-url]: https://github.com/NicolasBrondin/basic-readme-template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/caseybecking/caseybecking.github.io.svg?style=flat-square
+[contributors-url]: https://github.com/caseybecking/caseybecking.github.io/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/caseybecking/caseybecking.github.io.svg?style=flat-square
+[forks-url]: https://github.com/caseybecking/caseybecking.github.io/network/members
+[stars-shield]: https://img.shields.io/github/stars/caseybecking/caseybecking.github.io.svg?style=flat-square
+[stars-url]: https://github.com/caseybecking/caseybecking.github.io/stargazers
+[issues-shield]: https://img.shields.io/github/issues/caseybecking/caseybecking.github.io.svg?style=flat-square
+[issues-url]: https://github.com/caseybecking/caseybecking.github.io/issues
+[license-shield]: https://img.shields.io/github/license/caseybecking/caseybecking.github.io.svg?style=flat-square
+[license-url]: https://github.com/caseybecking/caseybecking.github.io/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/caseybecking
 [product-screenshot]: assets/img/blog-screenshot.png
