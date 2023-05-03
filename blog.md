@@ -4,7 +4,6 @@
 
 layout: blog
 title: Blog
-exclude: true
 permalink: /blog/
 
 ---
