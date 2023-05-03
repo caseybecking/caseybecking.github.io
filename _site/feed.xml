@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-10-20T13:31:13-07:00</updated><id>/feed.xml</id><title type="html">Casey Becking</title><subtitle></subtitle><entry><title type="html">Make it your day job to find a job</title><link href="/employment/interviews/2019/03/11/make-it-your-day-job.html" rel="alternate" type="text/html" title="Make it your day job to find a job" /><published>2019-03-11T18:46:57-07:00</published><updated>2019-03-11T18:46:57-07:00</updated><id>/employment/interviews/2019/03/11/make-it-your-day-job</id><content type="html" xml:base="/employment/interviews/2019/03/11/make-it-your-day-job.html">&lt;h2 id=&quot;make-it-your-day-job-to-find-a-job&quot;&gt;Make it your day job to find a job&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-05-03T12:51:36-07:00</updated><id>/feed.xml</id><title type="html">Casey Becking</title><subtitle></subtitle><entry><title type="html">Security and ChatGPT</title><link href="/security/chatgpt/2023/03/05/security-and-chatgpt.html" rel="alternate" type="text/html" title="Security and ChatGPT" /><published>2023-03-05T18:40:00-08:00</published><updated>2023-03-05T18:40:00-08:00</updated><id>/security/chatgpt/2023/03/05/security-and-chatgpt</id><content type="html" xml:base="/security/chatgpt/2023/03/05/security-and-chatgpt.html">&lt;p&gt;Chatbots are quickly becoming an integral part of our lives, from customer service to healthcare. However, as with any technology, chatbots come with their own unique set of security risks. This blog post will discuss the security risks associated with chat GPT (general purpose text) and how organizations can protect themselves from these risks.&lt;/p&gt;
+
+&lt;p&gt;Chat GPT is a type of artificial intelligence (AI) system that can understand and respond to natural language input. It is used in a variety of applications, including customer service, healthcare, and education. While chat GPT can provide a more efficient and cost-effective way of interacting with customers, it also introduces a number of security risks.&lt;/p&gt;
+
+&lt;p&gt;First, chat GPT systems are vulnerable to malicious actors who can use the system to gain access to sensitive data. For example, an attacker could use a chatbot to impersonate a customer and gain access to confidential information. Additionally, malicious actors can use chatbots to launch phishing attacks and spread malware.&lt;/p&gt;
+
+&lt;p&gt;Second, chat GPT systems are vulnerable to data breaches. If a chatbot is not properly secured, an attacker could gain access to the system and steal or modify data. As a result, organizations must ensure that their chat GPT systems are properly secured with encryption and authentication protocols.&lt;/p&gt;
+
+&lt;p&gt;Finally, chat GPT systems can be used to spread misinformation. For example, an attacker could use a chatbot to spread false information or manipulate public opinion. Organizations must be aware of this risk and take steps to ensure that their chatbot is not used for malicious purposes.&lt;/p&gt;
+
+&lt;p&gt;Organizations can protect themselves from the security risks associated with chat GPT by following best practices such as:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Implementing strong authentication and encryption protocols&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Regularly monitoring the system for suspicious activity&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ensuring that all data is securely stored and backed up&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Conducting regular security audits&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Implementing access control measures&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Training employees on security best practices&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;By taking these steps, organizations can ensure that their chat GPT systems are secure and protected from malicious actors.&lt;/p&gt;
+
+&lt;p&gt;Links to where you can find more information on this –&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.accenture.com/us-en/insights/artificial-intelligence/chatbot-security-risks&quot;&gt;Accenture&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.csoonline.com/article/3300386/chatbot-security-risks-and-how-to-protect-against-them.html&quot;&gt;CSO Online&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="security" /><category term="chatgpt" /><summary type="html">Chatbots are quickly becoming an integral part of our lives, from customer service to healthcare. However, as with any technology, chatbots come with their own unique set of security risks. This blog post will discuss the security risks associated with chat GPT (general purpose text) and how organizations can protect themselves from these risks.</summary></entry><entry><title type="html">Make it your day job to find a job</title><link href="/employment/interviews/2019/03/11/make-it-your-day-job.html" rel="alternate" type="text/html" title="Make it your day job to find a job" /><published>2019-03-11T18:46:57-07:00</published><updated>2019-03-11T18:46:57-07:00</updated><id>/employment/interviews/2019/03/11/make-it-your-day-job</id><content type="html" xml:base="/employment/interviews/2019/03/11/make-it-your-day-job.html">&lt;h2 id=&quot;make-it-your-day-job-to-find-a-job&quot;&gt;Make it your day job to find a job&lt;/h2&gt;
 
 &lt;p&gt;So right now I find my self looking for a new full time employment opportunity. I wanted to take some time to jot down how I’m doing this and how I think people should handle the opportunity that is present ed to them of being unemployed&lt;/p&gt;
 
