@@ -9,10 +9,12 @@ responsibilities: []
 positions:
   - Lead Security Engineer at Reify Health
 descriptions:
+  - Developed, Implemented & Maintain the Vulnerability Management Program.
   - Develop solutions to enable and enhance security of StudyTeam SaaS applications, associated data transfers, and infrastructure (AWS).
   - Play a key role in the selection, design, configuration and use of additional vulnerability scanning technologies (e.g., container scanning, SCA/SBOM, SAST, DAST, IAST, RASP).
   - Serve as a technical leader on incident response for web applications and infrastructure.
   - Author, and when appropriate delegate to team members, formal technical risk assessments documenting security findings and outlining required mitigating controls.
+ 
 hire:
   - 10/09/2023
 term:
