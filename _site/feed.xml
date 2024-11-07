@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-05-03T13:12:16-07:00</updated><id>/feed.xml</id><title type="html">Casey Becking</title><subtitle></subtitle><entry><title type="html">Automations in Cyber Security</title><link href="/security/automation/2023/03/05/automation-in-cyber-security.html" rel="alternate" type="text/html" title="Automations in Cyber Security" /><published>2023-03-05T19:00:00-08:00</published><updated>2023-03-05T19:00:00-08:00</updated><id>/security/automation/2023/03/05/automation-in-cyber-security</id><content type="html" xml:base="/security/automation/2023/03/05/automation-in-cyber-security.html">&lt;p&gt;In today’s digital world, cyber threats are growing at an alarming rate. As organizations continue to adopt digital technologies, the risk of cyber attacks is becoming more prevalent. Cybersecurity experts have been constantly seeking solutions to improve the security posture of organizations. Automation in cybersecurity has emerged as one of the most effective solutions to address this challenge.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-11-07T10:28:16-08:00</updated><id>/feed.xml</id><title type="html">Casey Becking</title><subtitle></subtitle><entry><title type="html">Automations in Cyber Security</title><link href="/security/automation/2023/03/05/automation-in-cyber-security.html" rel="alternate" type="text/html" title="Automations in Cyber Security" /><published>2023-03-05T19:00:00-08:00</published><updated>2023-03-05T19:00:00-08:00</updated><id>/security/automation/2023/03/05/automation-in-cyber-security</id><content type="html" xml:base="/security/automation/2023/03/05/automation-in-cyber-security.html">&lt;p&gt;In today’s digital world, cyber threats are growing at an alarming rate. As organizations continue to adopt digital technologies, the risk of cyber attacks is becoming more prevalent. Cybersecurity experts have been constantly seeking solutions to improve the security posture of organizations. Automation in cybersecurity has emerged as one of the most effective solutions to address this challenge.&lt;/p&gt;
 
 &lt;p&gt;Automation is the process of automating routine tasks and processes using software and technology. In the context of cybersecurity, automation refers to the use of technology to automatically detect, prevent, and respond to cyber threats.&lt;/p&gt;
 
@@ -61,11 +61,11 @@
 
 &lt;p&gt;Theres nothing like picking up the phone to talk to a potential future employer and not remembering their name. I save all of my information to &lt;a href=&quot;https://www.evernote.com&quot;&gt;Evernote&lt;/a&gt; and break it down by the&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Company Name - Job Title - Persons Name(Role)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Company Name - Job Title - Persons Name(Role)&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;So in this case it would look something like this for a title&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Apple Inc - Senior DevOps Engineer - Julie(HR)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Apple Inc - Senior DevOps Engineer - Julie(HR)&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;I take a ton of notes, this has allowed me to be be able to look back and ask questions based on conversations days ago. I still don’t have the best way to take notes but I know the more I do it the better I will get!&lt;/p&gt;
 
@@ -168,7 +168,7 @@ deploy:
   &lt;li&gt;Under &lt;strong&gt;Login Details&lt;/strong&gt; you will see &lt;strong&gt;API KEY&lt;/strong&gt; - Copy That&lt;/li&gt;
   &lt;li&gt;Install the &lt;a href=&quot;https://github.com/travis-ci/travis.rb&quot;&gt;Travis CLI&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;CD into your current hugo working directory&lt;/li&gt;
-  &lt;li&gt;Execute &lt;code class=&quot;highlighter-rouge&quot;&gt;travis setup cloudfiles&lt;/code&gt;
+  &lt;li&gt;Execute &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;travis setup cloudfiles&lt;/code&gt;
  &lt;em&gt;This will ask you a few questions for setup and create the *.travis.yml*&lt;/em&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
