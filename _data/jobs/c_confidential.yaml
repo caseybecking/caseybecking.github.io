@@ -1,11 +1,11 @@
 dailyTechnologies:
   - crowdstrike
   - aws
-  - bitbucket
-  - jenkins
+  - pentesting
+  - vulnerability scanning
 responsibilities: []
 positions:
-  - Senior Security Engineer at Confidential
+  - Principal Security Engineer at Confidential
 descriptions:
   - Respond to, remediate, and document information security incidents
   - Support vulnerability mitigation and remediation activities
@@ -20,9 +20,9 @@ descriptions:
   - Work closely with business analysts and DevOps team on existing and new deployments to ensure that best practices are followed
   - Assist with development and implementation of Security Awareness Training for entire organization
 hire:
-  - 11/08/2021
-term:
   - 01/13/2023
+term:
+  - 09/29/2023
 url:
   - ''
 name:

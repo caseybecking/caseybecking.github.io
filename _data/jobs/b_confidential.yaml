@@ -1,30 +1,26 @@
 dailyTechnologies:
   - crowdstrike
+  - veracode
+  - exabeam
   - aws
   - pentesting
   - vulnerability scanning
 responsibilities: []
 positions:
-  - Principal Security Engineer at Confidential
+  - Lead Security Engineer at Confidential
 descriptions:
-  - Respond to, remediate, and document information security incidents
-  - Support vulnerability mitigation and remediation activities
-  - Implement, configure, manage, and document security tools used by Confidential including Firewalls, VPNs, IAM, SIEM, vulnerability scanners, email protection services, network security, end-point security, patch management and other security products
-  - Assist in development and execution of information security plans and policies
-  - Assist in development or implementation of scripts and tools to automate threat detection
-  - Assist in the development and testing of Disaster Recovery / Business Continuity Plans
-  - Establish requirements and make recommendations on the appropriate infrastructure protection tools, methods, and technologies
-  - Monitor networks and systems for security breaches, through the use of software that detects intrusions and anomalous system behavior
-  - Perform security gap assessments and penetration tests, generate comprehensive reports and recommendations on the security risks and vulnerabilities discovered
-  - Keep abreast of latest security advisories, alerts and vulnerabilities pertaining to Confidential and its mission. Assists with periodic threat exercises and makes recommendations to technology management on the need for policy changes
-  - Work closely with business analysts and DevOps team on existing and new deployments to ensure that best practices are followed
-  - Assist with development and implementation of Security Awareness Training for entire organization
+  - Developed, Implemented & Maintain the Vulnerability Management Program.
+  - Develop solutions to enable and enhance security of StudyTeam SaaS applications, associated data transfers, and infrastructure (AWS).
+  - Play a key role in the selection, design, configuration and use of additional vulnerability scanning technologies (e.g., container scanning, SCA/SBOM, SAST, DAST, IAST, RASP).
+  - Serve as a technical leader on incident response for web applications and infrastructure.
+  - Author, and when appropriate delegate to team members, formal technical risk assessments documenting security findings and outlining required mitigating controls.
+ 
 hire:
-  - 01/13/2023
+  - 10/09/2023
 term:
-  - 09/29/2023
+  - 01/10/2025
 url:
-  - ''
+  - 
 name:
   - Confidential
 location:
