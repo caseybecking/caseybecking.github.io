@@ -19,3 +19,8 @@ books:
     started: 2024-11-05
     completed: 2024-12-15
     rating: 5
+  - title: "Accelertae - The Science of Devops - Building and Scaling High Performing Technology Organizations"
+    author: "Nicole Forsgren, Jez Humble, Gene Kim"
+    started: 2025-02-15
+    completed: 2025-02-21
+    rating: 4
