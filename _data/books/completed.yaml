@@ -24,3 +24,8 @@ books:
     started: 2025-02-15
     completed: 2025-02-21
     rating: 4
+  - title: "How to Know a Person"
+    author: "David Brooks"
+    started: 2025-01-16
+    completed: 2025-02-23
+    rating: 5

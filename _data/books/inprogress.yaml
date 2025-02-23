@@ -1,10 +1,13 @@
 books:
-  - title: "How to Know a Person"
-    author: "David Brooks"
-    started: 2025-01-16
   - title: "Carl's Doomsday Scenario: Dungeon Carwler Carl, Book 2"
     author: "Matt Dinniman"
     started: 2025-02-12
   - title: "Outlive"
     author: "Peter Attia"
     started: 2024-10-12
+  - title: "Sonny Boy"
+    author: "Al Pacino"
+    started: 2025-02-22
+  - title: "Meditations"
+    author: "Marcus Aurelius"
+    started: 2024-06-19
