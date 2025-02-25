@@ -29,3 +29,8 @@ books:
     started: 2025-01-16
     completed: 2025-02-23
     rating: 5
+  - title: "Sonny Boy"
+    author: "Al Pacino"
+    started: 2025-02-22
+    completed: 2025-02-25
+    rating: 5
