@@ -34,3 +34,8 @@ books:
     started: 2025-02-22
     completed: 2025-02-25
     rating: 5
+  - title: "Hidden Potential"
+    author: "Adam Grant"
+    started: 2025-02-25
+    completed: 2025-05-19
+    rating: 5
