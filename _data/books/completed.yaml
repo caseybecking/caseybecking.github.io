@@ -39,3 +39,8 @@ books:
     started: 2025-02-25
     completed: 2025-05-19
     rating: 5
+  - title: "Right Thing, Right Now"
+    author: "Ryan Holiday"
+    started: 2024-06-28
+    completed: 2025-05-28
+    rating: 5
