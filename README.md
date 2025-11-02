@@ -12,7 +12,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Casey Becking Site][product-screenshot]](https://www.caseybecking.com)
+[![Casey Becking Site][product-screenshot]](https://casey.beck.ing)
 
 This is my basic site. It contains my resume and a very basic blog. I use it to keep track of my thoughts and share them with the world.
 

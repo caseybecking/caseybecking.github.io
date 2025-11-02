@@ -1,1 +1,4 @@
 .dccache
+_site/
+vendor/
+.bundle/
